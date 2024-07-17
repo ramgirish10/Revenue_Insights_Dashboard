@@ -46,3 +46,8 @@ To get started with this project:
 1. Open the `Revenue Analysis.twb` file in Tableau Desktop.
 2. Review the data model and dashboards.
 3. Customize the visuals and metrics as needed for your specific revenue analysis.
+
+## 📸 Screenshots
+Screenshot of the dashboard and visualizations to illustrate key insights and features.
+![Dashboard](https://github.com/user-attachments/assets/efc462e8-ad90-4118-b67f-114d1df79d3d)
+
